@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;package gt.edu.umg.progra1.ejemplo;&apos;" deleteContents="true" description="Delete resource &apos;package gt.edu.umg.progra1.ejemplo;&apos;" element1="/package gt.edu.umg.progra1.ejemplo;" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1589650219921"/>
+</session>

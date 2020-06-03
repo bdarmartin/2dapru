@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1589603875435_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=package gt.edu.umg.progra1.ejemplo;/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1589603875482_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1589603879785_2" label="Window Working Set" name="Aggregate for window 1589603879785"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1589649936692_3" label="Window Working Set" name="Aggregate for window 1589649936691"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1590024273658_4" label="Window Working Set" name="Aggregate for window 1590024273658"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1590121839794_5" label="Window Working Set" name="Aggregate for window 1590121839794"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1590258832881_6" label="Window Working Set" name="Aggregate for window 1590258832881"/>
+</workingSetManager>
